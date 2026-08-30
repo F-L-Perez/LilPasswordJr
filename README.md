@@ -2,9 +2,13 @@
 
 > A Simple Password Generator Web App
 
-![Banner Image of a locked gate](app/img/lock%20banner.png)
+<div align="center">
+  
+![Banner Image of a locked gate](https://github.com/F-L-Perez/LilPasswordJr/blob/preview/App/img/lock%20banner.png)
 
 (insert screenshot preview of the app when it's in beta or later)
+
+</div>
 
 ## Tech Stack
 
